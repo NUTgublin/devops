@@ -1,0 +1,39 @@
+﻿<Window x:Class="Beast.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Beast"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/Beast.jpg" />
+        </Grid.Background>
+        <DockPanel>
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Vertical">
+                <Button x:Name="switch" Click="switch_Click">switch rows</Button>
+                <TextBlock Foreground="White" FontSize="20">The number of the beast is</TextBlock>
+                <TextBlock x:Name="tbNumber" Foreground="White"></TextBlock>
+                <Button x:Name="btnR" Click="btnR_Click">Read from database</Button>
+                <Button x:Name="btnAdd" Click="btnAdd_Click">Add new value in database</Button>
+                <Button x:Name="btnUpdate" Click="btnUpdate_Click">Update item in database</Button>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock x:Name="textBlock" Width="100" Background="White">Numeric value</TextBlock>
+                    <TextBox x:Name="tb" Width="150"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock x:Name="textBlock2" Width="100" Background="White">row ID</TextBlock>
+                    <TextBox x:Name="tb2" Width="150"></TextBox>
+                </StackPanel>
+                <ComboBox x:Name="myComboBox" SelectedIndex="0">
+                    <ComboBoxItem>red</ComboBoxItem>
+                    <ComboBoxItem>yellow</ComboBoxItem>
+                    <ComboBoxItem>blue</ComboBoxItem>
+                </ComboBox>
+                <Button x:Name="btnDelete" Click="btnDelete_Click">Delete row with ID from database</Button>
+            </StackPanel>
+            <DataGrid x:Name="dt" Height="350" Width="240"></DataGrid>
+        </DockPanel>
+    </Grid>
+</Window>

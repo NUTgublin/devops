@@ -1,0 +1,59 @@
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\Beast.exe.config
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\Beast.exe
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\Beast.pdb
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\MySql.Data.dll
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\Google.Protobuf.dll
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\ZstdNet.dll
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\System.Memory.dll
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\System.Buffers.dll
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASPE\source\repos\Beast\Beast\bin\Debug\MySql.Data.xml
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast.csproj.AssemblyReference.cache
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast.exe.config
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\MainWindow.g.cs
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\App.g.cs
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast_MarkupCompile.cache
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast_MarkupCompile.lref
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\MainWindow.baml
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast.g.resources
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast.Properties.Resources.resources
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast.csproj.GenerateResource.cache
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast.csproj.CoreCompileInputs.cache
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast.csproj.CopyComplete
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast.exe
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast.pdb
+C:\Users\ASPE\source\repos\Beast\Beast\obj\Debug\Beast.csproj.SuggestedBindingRedirects.cache
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\Beast.exe.config
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\Beast.exe
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\Beast.pdb
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\Google.Protobuf.dll
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\ZstdNet.dll
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\BouncyCastle.Crypto.dll
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\Ubiety.Dns.Core.dll
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\System.Memory.dll
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\System.Buffers.dll
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\K4os.Compression.LZ4.dll
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\K4os.Hash.xxHash.dll
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\System.Numerics.Vectors.dll
+C:\school 3\Programmeren\Beast\Beast\bin\Debug\MySql.Data.xml
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast.csproj.AssemblyReference.cache
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast.csproj.SuggestedBindingRedirects.cache
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast.exe.config
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\MainWindow.g.cs
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\App.g.cs
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast_MarkupCompile.cache
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast_MarkupCompile.lref
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\MainWindow.baml
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast.g.resources
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast.Properties.Resources.resources
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast.csproj.GenerateResource.cache
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast.csproj.CoreCompileInputs.cache
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast.csproj.CopyComplete
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast.exe
+C:\school 3\Programmeren\Beast\Beast\obj\Debug\Beast.pdb
